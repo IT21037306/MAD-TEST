@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="radTopLeft">30dp</dimen>
+    <dimen name="radTopRight">30dp</dimen>
+    <dimen name="radBtmLeft">30dp</dimen>
+    <dimen name="radBtmRight">30dp</dimen>
+    <dimen name="btnRadius">20dp</dimen>
+    <dimen name="btm_Margin">6dp</dimen>
+
+    <!-- home page-->
+    <dimen name="cornerRadius">16dp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="marginTop">35dp</dimen>
+    <dimen name="marginStart">20dp</dimen>
+    <dimen name="radius">30dp</dimen>
+    <dimen name="cardElevation">8dp</dimen>
+
+    <!-- Button Radius -->
+    <dimen name="btnRad">40dp</dimen>
+
+    <!-- Back Button Size -->
+    <dimen name="backBtnSize">38dp</dimen>
+
+    <!-- logo size -->
+    <dimen name="logoSize">48dp</dimen>
+
+    <!-- Font Size -->
+    <dimen name="fntSize_Card_Title">30sp</dimen>
+</resources>
+

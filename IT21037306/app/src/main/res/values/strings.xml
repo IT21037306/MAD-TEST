@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Blue Blood</string>
+    <string name="tmp_Title">Title</string>
+
+    <!-- Strings for Create Plane -->
+    <string name="enterPlan">Enter a plan name</string>
+
+    <string name="crPlan">Create A Plan</string>
+
+         <!-- Strings for DropDown list-->
+    <string name="exType1">Select Endurance Exercise</string>
+    <string name="exType2">Select Strength Exercise</string>
+    <string name="exType3">Select Balance Exercise</string>
+    <string name="exType4">Select Flexibility Exercise</string>
+
+        <!-- Strings for Buttons-->
+    <string name="btnCreate">Create</string>
+    <string name="btnCancel">Cancel</string>
+
+    <!-- Strings for HomePage-->
+    <string name="tNM">To Know More :</string>
+    <string name="watchVDO">Click to watch a video</string>
+    <string name="exName">Exercise Name</string>
+    <string name="exAbout">About</string>
+    <string name="homeTitle">Exercise Management</string>
+    <string name="editTitle">Plan Name</string>
+
+    <!-- Strings for EditPage-->
+    <string name="delete">Delete</string>
+    <string name="Update">Update</string>
+
+    <string name="changeTitle">Plan Name</string>
+
+    <!-- Common Strings for EditPage & Create Page-->
+    <string name="exrName">Exercise Name</string>
+    <string name="selectExr">Selected Exercise :</string>
+
+        <!-- Strings for DropDown list-->
+    <string name="exChangeType1">Change Endurance Exercise</string>
+    <string name="exChangeType2">Change Strength Exercise</string>
+    <string name="exChangeType3">Change Balance Exercise</string>
+    <string name="exChangeType4">Change Flexibility Exercise</string>
+
+
+    <!-- Strings for View Plan -->
+    <string name="urPlan">Your Plans</string>
+</resources>
+
+
+
